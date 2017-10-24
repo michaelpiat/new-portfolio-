@@ -112,7 +112,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 #header.header-wrapper {
-	background: url(../images/header-bg1.jpg) no-repeat center center;
+	background: url(../images/darkroad.jpg) no-repeat center center;
 	background-size: cover;
 	display: table;
 	height: 100vh;
@@ -178,7 +178,7 @@ h1, h2, h3, h4, h5, h6{
 
 #header .secondary-slogan{
 	font-size: 1.6em;
-	color: rgba(255,255,255,.5);
+	color: /*rgba(255,255,255,.5)*/white;
 	line-height: 1em;
 	font-family: 'Alegreya SC';
 }
@@ -264,7 +264,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 #services {
-	background-image: url(../images/traffic.jpg);
+	background-image: url(../images/rain.jpg);
 	color: white;
 }
 #parallax {
